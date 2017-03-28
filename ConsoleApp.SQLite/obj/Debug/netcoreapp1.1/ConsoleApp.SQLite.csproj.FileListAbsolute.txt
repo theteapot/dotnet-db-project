@@ -1,0 +1,16 @@
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.deps.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.runtimeconfig.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.runtimeconfig.dev.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.pdb
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.AssemblyInfo.cs
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.pdb
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.deps.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.runtimeconfig.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.runtimeconfig.dev.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.pdb
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.AssemblyInfo.cs
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.pdb

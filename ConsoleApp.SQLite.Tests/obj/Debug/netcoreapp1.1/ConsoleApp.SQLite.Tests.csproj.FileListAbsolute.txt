@@ -1,0 +1,13 @@
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.deps.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.runtimeconfig.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.runtimeconfig.dev.json
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.pdb
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/bin/Debug/netcoreapp1.1/ConsoleApp.SQLite.pdb
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.AssemblyInfo.cs
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.dll
+/home/tkettle/Documents/Projects/csharp/ConsoleApp.SQLite/ConsoleApp.SQLite.Tests/obj/Debug/netcoreapp1.1/ConsoleApp.SQLite.Tests.pdb
